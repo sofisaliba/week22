@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+.card__image {
+  width: 40%;
+  }
+  
+  .card__name {
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    font-weight: 400;
+    font-size: 2rem;
+  }
+  .card__universe {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+  }
+  .card__intellegence {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+  }
+  .card__force {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+  }
+  .card__speed {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+  }
+  .card__skills {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+  }
+  .card {
+    border: 1px solid black;
+    width: 40%;
+    margin-left: 30%;
+    background-color: antiquewhite;
+  }
+  
+  
